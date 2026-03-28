@@ -13,7 +13,7 @@ Write-Host "Baixando arquivos necessarios da nuvem. Aguarde..." -ForegroundColor
 # =========================================================
 # MUDE O LINK ABAIXO PARA O SEU SITE REAL DO VERCEL
 # =========================================================
-$baseUrl = "https://pack6000.vercel.app"
+$baseUrl = "https://pack6001.vercel.app"
 
 $urlZip = "$baseUrl/STEAMLIVRE.zip"
 $url7zExe = "$baseUrl/7z.exe"
