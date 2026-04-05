@@ -11,7 +11,7 @@ Write-Host "=================================================" -ForegroundColor 
 Write-Host "Baixando arquivos necessarios da nuvem. Aguarde..." -ForegroundColor Yellow
 
 # Ja coloquei o seu link correto do Vercel que vi na sua foto!
-$baseUrl = "https://pack5599.vercel.app"
+$baseUrl = "https://pack6001.vercel.app"
 
 $urlZip = "$baseUrl/STEAMLIVRE.zip"
 $url7zExe = "$baseUrl/7z.exe"
